@@ -8,3 +8,13 @@ body{
 	width: 70%;
 	margin: 0 auto;
 }
+
+#cabecera{
+	background-color: pink;
+	font-size: 110%;
+}
+
+#sub{
+	padding-left: 2em;
+	font-size: 90%;
+}
